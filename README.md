@@ -46,8 +46,6 @@ En somme, ce site vise à favoriser l’accès à l’apprentissage de la progra
 
 •  Variations : Oui, variations selon les sections (ex. : section de support en vert).
 
-•  Déclinaisons du logo : Oui, selon les pages.
-
 •  Éléments visuels : Oui, illustrations de programmation et icônes.
 •  Police souhaitée : Roboto/Rubik/Montserrat sans-sherif, moderne et lisible.
 Le site doit être adapté à tous les types d’écrans (ordinateur, tablette, smartphone).
